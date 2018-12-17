@@ -1,0 +1,21 @@
+======================================================================================================================================
+
+Welcome to the world of TIC TAC TOE!!
+
+Please play the game as per the rules given below. You will not be disqualified, but lets not fool the computer shall we??
+
+1. You either play wiht an 'X' or a 'O'. Any other character is not valid.
+
+2. If you dont know what a TIC TAC TOE is, this is how it looks
+
+		X|X|O
+		-+-+-
+		O|O|X
+		-+-+-
+		X|X|O
+
+
+3. You can wither win a game or end in a stalemate!!
+
+
+======================================================================================================================================
